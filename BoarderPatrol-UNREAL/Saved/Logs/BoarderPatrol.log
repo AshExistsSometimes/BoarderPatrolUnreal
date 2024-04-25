@@ -1340,3 +1340,64 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.25-23.28.20:173][269]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.25-23.28.20:173][269]LogContentValidation: Display: Validating World /Game/Maps/LEvel2.Level2
 [2024.04.25-23.28.20:173][269]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LEvel2_BuiltData.LEvel2_BuiltData
+[2024.04.25-23.31.44:725][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Snowball_Player.Snowball_Player
+[2024.04.25-23.33.17:343][196]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [The specified module could not be found.]
+[2024.04.25-23.33.25:510][806]BlueprintLog: New page: Compile Coin
+[2024.04.25-23.33.25:564][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.04.25-23.33.26:304][848]LogSavePackage: Moving '../../../../../../.Uni Work/Year 1 - Scripting for Game Engines/Unreal/BoarderPatrolUnreal/BoarderPatrol-UNREAL/Saved/CoinA385E68D4E0F80B97E8A3395847B4C1E.tmp' to '../../../../../../.Uni Work/Year 1 - Scripting for Game Engines/Unreal/BoarderPatrolUnreal/BoarderPatrol-UNREAL/Content/Blueprints/Coin.uasset'
+[2024.04.25-23.33.26:345][848]AssetCheck: New page: Asset Save: Coin
+[2024.04.25-23.33.26:345][848]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Coin.Coin
+[2024.04.25-23.33.28:678][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.25-23.33.28:687][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-23.33.28:687][ 53]PIE: New page: PIE session: LEvel2 (26 Apr 2024, 01:33:28)
+[2024.04.25-23.33.28:730][ 53]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LEvel2
+[2024.04.25-23.33.28:744][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013093s)
+[2024.04.25-23.33.28:744][ 53]LogAIModule: Creating AISystem for world Level2
+[2024.04.25-23.33.28:744][ 53]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2024.04.25-23.33.28:745][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LEvel2.Level2 to /Game/Maps/UEDPIE_0_LEvel2.Level2 (0.014423s)
+[2024.04.25-23.33.28:775][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.04.25-23.33.28:776][ 53]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.25-23.33.28:776][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-23.33.28:776][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-23.33.28:776][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-23.33.28:776][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-23.33.28:776][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-23.33.28:776][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.25-23.33.28:776][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-23.33.28:776][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-23.33.28:776][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-23.33.28:776][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-23.33.28:776][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-23.33.28:776][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.25-23.33.28:780][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.25-23.33.28:780][ 53]LogAudioMixer: Display: 1: FrontRight
+[2024.04.25-23.33.28:787][ 53]LogAudioMixer: Display: Using Audio Device Headphones (4- High Definition Audio Device)
+[2024.04.25-23.33.28:787][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-23.33.28:787][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-23.33.28:787][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-23.33.28:788][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.25-23.33.28:788][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.25-23.33.28:788][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.25-23.33.28:789][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.25-23.33.28:789][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.25-23.33.28:789][ 53]LogInit: FAudioDevice initialized.
+[2024.04.25-23.33.28:789][ 53]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level2'.
+[2024.04.25-23.33.28:800][ 53]LogLoad: Game class is 'SnowballGameMode_C'
+[2024.04.25-23.33.28:807][ 53]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LEvel2.Level2 up for play (max tick rate 0) at 2024.04.26-00.33.28
+[2024.04.25-23.33.28:807][ 53]LogWorld: Bringing up level for play took: 0.006884
+[2024.04.25-23.33.28:808][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2024.04.25-23.33.28:812][ 53]PIE: Server logged in
+[2024.04.25-23.33.28:812][ 53]PIE: Play in editor total start time 0.128 seconds.
+[2024.04.25-23.33.36:231][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-23.33.36:231][923]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LEvel2
+[2024.04.25-23.33.36:232][923]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-23.33.36:233][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-23.33.36:239][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-23.33.36:244][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-23.33.36:269][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-23.33.36:269][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.25-23.33.36:270][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.25-23.33.36:272][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-23.33.36:275][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.04.25-23.33.36:319][926]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.25-23.34.59:752][ 40]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/GameUI.GameUI
